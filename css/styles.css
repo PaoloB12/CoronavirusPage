@@ -1,0 +1,76 @@
+    .container-FASES{
+margin-top: 120px;
+margin-bottom: 60PX;
+margin-left: 115px;
+margin-right: 115px;
+background-color: rgb(22, 21, 21);
+height: 100px;
+width: auto;
+    }
+    .container-NOTICIAS{
+    margin-top: 100px;
+    margin-bottom: 60PX;
+    margin-left: 115px;
+    margin-right: 115px;
+    background-color: rgb(24, 23, 23);
+    height: 100px;
+    width: auto;
+    }
+    .container-Contagios{
+        margin-top: 120px;
+        margin-bottom: 50PX;
+        margin-left: 115px;
+        margin-right: 115px;
+        background-color: rgb(24, 23, 23);
+        height: 100px;
+        width: auto;
+        }
+    .FORMAS-CONTAGIO{
+        margin-top: 35px;
+        color: #ffffff;
+    }
+    
+    .NOTICIAS-DESTACADAS{
+        margin-top: 35px;
+        color: #ffffff;
+    }
+    .FASES-CORONAVIRUS{
+        margin-top: 35px;
+        color: #ffffff;
+    }
+    .BOTON-CIFRAS{
+        margin-top: 40px;
+        margin-bottom: 20PX;
+        background-color:rgb(155, 143, 143) ;
+        border-color:rgb(235, 223, 223) ;
+        color: black;
+    } 
+    .video{
+    margin-top: -35px;
+    }
+    .ultimo{
+    margin-top: 60PX;
+    margin-bottom: 40PX;
+    }
+    body{
+    background-color: rgb(235, 223, 223);
+    }
+    .card-footer{
+    background-color: black;
+    }
+    .abajo{
+    margin-top: 100px;
+    background-color: black;
+    }
+    .b{
+    margin-top: 120PX;
+    margin-bottom: 40PX;
+    }
+    .titulo{
+        background-color: rgb(155, 143, 143);
+    }
+    .boton{
+        background-color: rgb(235, 223, 223);
+        border-color:rgb(235, 223, 223) ;
+        color: black;
+    }
